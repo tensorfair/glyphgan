@@ -1,6 +1,7 @@
 # GlyphGAN
 
 Based on the paper referenced from the [GlyphGAN paper](https://arxiv.org/pdf/1905.12502.pdf).
+> Built with Tensorflow GPU 1.14 and Python 3.6.
 
 ## Usage
 Executing `python glyphgan` will run the training of GlyphGAN and output a frozen model upon completion.
